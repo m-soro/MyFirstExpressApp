@@ -1,0 +1,14 @@
+{
+  "name": "myfirstexpressapp",
+  "version": "1.0.0",
+  "description": "colt steele's express excercices",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mark Soro",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
